@@ -1,0 +1,26 @@
+/*This is the affiliated CSS sheet for jnl_final_outline_bootstrap.html.*/
+
+button {
+	margin-left: 1320px;
+}
+.accordion {
+	margin-bottom: 30px;
+}
+.accordion-button {
+	font-weight: bold;
+}
+.fixed-bottom {
+	margin-left: 10px;
+	margin-top: 30px;
+	padding: 5px;
+	text-align: center;
+}
+.container-fluid {
+	color: black;
+	/*this is the color of all the text*/
+}
+.container {
+	color:  white;
+	/*this is the color of the header and nutgraf*/
+}
+.jumbotron {}
